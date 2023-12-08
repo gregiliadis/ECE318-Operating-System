@@ -1,0 +1,3 @@
+cd ../filesystem/
+make
+cd -
